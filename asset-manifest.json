@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gh-profile-finder/static/css/main.78b39f31.chunk.css",
+    "main.js": "/gh-profile-finder/static/js/main.dfada1af.chunk.js",
+    "main.js.map": "/gh-profile-finder/static/js/main.dfada1af.chunk.js.map",
+    "runtime-main.js": "/gh-profile-finder/static/js/runtime-main.51307695.js",
+    "runtime-main.js.map": "/gh-profile-finder/static/js/runtime-main.51307695.js.map",
+    "static/js/2.62e5899e.chunk.js": "/gh-profile-finder/static/js/2.62e5899e.chunk.js",
+    "static/js/2.62e5899e.chunk.js.map": "/gh-profile-finder/static/js/2.62e5899e.chunk.js.map",
+    "static/js/3.de012704.chunk.js": "/gh-profile-finder/static/js/3.de012704.chunk.js",
+    "static/js/3.de012704.chunk.js.map": "/gh-profile-finder/static/js/3.de012704.chunk.js.map",
+    "index.html": "/gh-profile-finder/index.html",
+    "static/css/main.78b39f31.chunk.css.map": "/gh-profile-finder/static/css/main.78b39f31.chunk.css.map",
+    "static/js/2.62e5899e.chunk.js.LICENSE.txt": "/gh-profile-finder/static/js/2.62e5899e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51307695.js",
+    "static/js/2.62e5899e.chunk.js",
+    "static/css/main.78b39f31.chunk.css",
+    "static/js/main.dfada1af.chunk.js"
+  ]
+}
