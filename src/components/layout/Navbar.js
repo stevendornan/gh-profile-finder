@@ -6,13 +6,13 @@ const Navbar = ({ icon, title }) => {
   return (
     <nav className='navbar bg-primary'>
       <h1>
-        <Link to='/home'>
+        <Link to='/'>
           <i className={icon} /> {title}
         </Link>
       </h1>
       <ul>
         <li>
-          <Link to='/home'>Home</Link>
+          <Link to='/'>Home</Link>
         </li>
         <li>
           <Link to='/about'>About</Link>
